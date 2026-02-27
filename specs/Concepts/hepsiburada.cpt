@@ -1,0 +1,28 @@
+# Anasayfa acilir
+* "baseURL" adresine gidilir
+
+# Cerez bildirimi varsa kabul edilir
+* "home.cookieAccept" elementi varsa tiklanir
+
+# Login butonuna tiklanir
+* "home.loginMenu" elementi tiklanir
+
+# Gecerli kullanici email ve password girilir
+* "login.emailInput" alanina "LoginEmail" degerini yazar
+* "login.passwordInput" alanina "LoginSifre" degerini yazar
+* "login.submitButton" elementi tiklanir
+* "home.accountArea" elementi gorunur olana kadar beklenir
+
+# Arama cubuguna yazilir ve arama yapilir
+* "search.input" alanina "SearchText" degerini yazar
+* Enter tusuna basilir
+
+# Ikinci satirdaki ilk urun sepete eklenir
+* "2" satir "1" sutundaki urunu sepete ekle
+
+# Sepetteki urun dogrulanir
+* Sepetteki urun adi kontrol edilir
+
+# Urun sepetten silinir ve sepet bos dogrulanir
+* Sepetteki urun silinir
+* Sepetin bos oldugu dogrulanir

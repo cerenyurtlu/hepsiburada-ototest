@@ -1,0 +1,57 @@
+[
+  {
+    "key": "home.cookieAccept",
+    "value": "onetrust-accept-btn-handler",
+    "type": "id"
+  },
+  {
+    "key": "home.loginMenu",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "home.accountArea",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "login.emailInput",
+    "value": "txtUserName",
+    "type": "id"
+  },
+  {
+    "key": "login.passwordInput",
+    "value": "txtPassword",
+    "type": "id"
+  },
+  {
+    "key": "login.submitButton",
+    "value": "btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "search.input",
+    "value": "//input[@data-test-id='search-bar-input']",
+    "type": "xpath"
+  },
+  {
+    "key": "results.productTitle",
+    "value": "title-module_titleText__8FlNQ",
+    "type": "class"
+  },
+  {
+    "key": "product.addToCartButton",
+    "value": "//button[@data-test-id='variant-add-to-cart-button']",
+    "type": "xpath"
+  },
+  {
+    "key": "cart.icon",
+    "value": "shoppingCart",
+    "type": "id"
+  },
+  {
+    "key": "cart.removeItem",
+    "value": "//a[@aria-label='Sepetten Çıkar']",
+    "type": "xpath"
+  }
+]

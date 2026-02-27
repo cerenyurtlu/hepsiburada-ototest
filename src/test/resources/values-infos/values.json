@@ -1,0 +1,11 @@
+{
+  "baseURL": "https://www.hepsiburada.com/",
+  "LoginEmail": "test@gmail.com",
+  "LoginSifre": "test**",
+  "SearchText": "bilgisayar",
+  "TargetRow": "2",
+  "TargetColumn": "1",
+  "AccountName": "test test",
+  "WaitAfterAddToCart": "6",
+  "ViewMode": "grid"
+}
